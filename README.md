@@ -1,6 +1,6 @@
 # Flood Forecasting in Bangladesh: A Comparative Analysis of Time-Series Models
 
-A time-series forecasting research project comparing **ARIMA, SARIMAX, and Prophet** for predicting temperature, rainfall, and water levels across different regions of Bangladesh. This project was conducted as part of my bachelor's thesis in Computer Science and Engineering.
+A time-series forecasting research project comparing **ARIMA, SARIMAX, and Prophet** for predicting temperature, rainfall, and water levels across different regions of Bangladesh. This project was conducted as part of my bachelor's thesis in Computer Science and Engineering which later on submitted for publication.
 
 The primary objective was to conduct a comparative analysis of three time-series forecasting models using meteorological and water-level datasets to identify an effective approach for flood-related forecasting.
 
@@ -116,6 +116,7 @@ This research provided an opportunity to apply statistical time-series methods t
 
 [View the source code and project materials on GitHub](https://github.com/Zafrin-Jolly/Forecasting-Floods-in-Bangladesh-Using-Different-Time-Series-Model-A-Comparative-Analysis)
 
+[View the paper](https://www.researchgate.net/profile/Nur-A-Marzan-Dipro/publication/377537885_Forecasting_Flood_in_Bangladesh_Using_Different_Time_Series_Models_A_Comparative_Analysis/links/66c37ba8bcb6b956be013bdb/Forecasting-Flood-in-Bangladesh-Using-Different-Time-Series-Models-A-Comparative-Analysis.pdf)
 ---
 
 *Using data-driven forecasting to support research on environmental challenges in Bangladesh.*
